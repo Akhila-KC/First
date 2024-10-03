@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table in form</title>
+    <link rel="stylesheet" href="12_table_in_form.css">
+</head>
+<body>
+    <div>
+    <h1><u>APPLICATION FORM</u></h1>
+    <table border="" width="100%" cellspacing="10px" cellpadding="10px">
+        <tr>
+            <td>name</td>
+            <td>
+                <form action="">
+                    <input type="text" name="name" placeholder="Enter your name">
+                </form>
+            </td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>
+                <input type="number" name="age" placeholder="Enter your age">
+            </td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>
+                <input type="radio" name="gender" value="male">Male <input type="radio" name="gender" value="female">Female
+            </td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>
+                <input type="email" name="email" placeholder="Enter your email">
+            </td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>
+                <textarea name="address" id="" cols="30" rows="10"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>Qualification</td>
+            <td>
+                <input type="checkbox">B.Tech
+                <input type="checkbox">DIPLOMA
+                <input type="checkbox">MBA
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="padding-left: 46%;">
+                <input class="submit" type="submit"> <input class="submit" type="RESET">
+            </td>
+        </tr>
+        
+    </table>
+</div>
+</body>
+</html>

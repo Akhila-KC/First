@@ -1,0 +1,21 @@
+.head_prop{
+    text-transform: uppercase;
+    color: blue;
+    text-align: center;
+    background-color: bisque;
+    text-shadow: 5px 5px 5px;
+}
+.para_prop{
+    color: seagreen;
+    text-align: justify;
+    text-indent: 150px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    line-height: 2;
+ }
+div{
+    background-color: aqua;
+    border: 5px dotted black;
+    padding: 10%;
+    margin: 30px;
+}

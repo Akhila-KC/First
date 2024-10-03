@@ -1,0 +1,56 @@
+h4{
+    color: yellowgreen;
+}
+#a{
+    color: rgb(243, 246, 247);
+}
+.mahatma{
+    color: red;
+}
+
+
+.main_heading{
+    background-color: bisque;
+    color: rgb(199, 30, 30);
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 5px 5px 5px;    
+}
+.link{
+    color: rgb(241, 38, 38);
+}
+div{
+    border: 5px dashed blue;
+    padding: 100px;
+    margin: 100px;
+    background-image: url(images/A-clear-close-up-photo-of-a-woman.jpg);
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: white;
+    text-align: justify;
+    line-height: 2;
+    word-spacing: 5px;
+    text-indent: 150px;
+    letter-spacing: 2px;
+}
+.amazon{
+    border-radius: 80px 80px 80px 80px;
+    height: 500px;
+    width: 500px;
+}
+.table_prop{
+    text-transform: capitalize;
+    background-color: rgb(14, 3, 3);
+    color: aqua;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    text-transform: capitalize;
+}

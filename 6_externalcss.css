@@ -1,0 +1,14 @@
+h1{
+    color: aqua;font-size: 50px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;text-transform: capitalize;text-align: center
+}
+#a{
+    color: blueviolet;
+}
+
+#b{
+    color: brown;
+}
+
+.c{
+    color: cadetblue;
+}

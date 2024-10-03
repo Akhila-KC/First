@@ -1,0 +1,14 @@
+.main_heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+div{
+    background-color: rgb(227, 231, 230);
+    border: 5px solid black;
+    margin: 10px;
+    padding: 5%;
+    text-align: left;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+
+}
